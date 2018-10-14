@@ -1,4 +1,5 @@
-*.class
-*.jar
-*.war
-.settings/
+/target/
+/.classpath
+/*.project
+/.settings
+/*.springBeans
